@@ -1,0 +1,17 @@
+{
+
+    "name": "chudo921/b24",
+
+    "description": "Проект Битрикс24 для курса OTUS",
+
+    "type": "project",
+
+    "license": "proprietary",
+
+    "require": {
+
+        "php": ">=8.0"
+
+    }
+
+}

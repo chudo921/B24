@@ -1,0 +1,31 @@
+# Битрикс: кеш и временные файлы
+
+bitrix/cache/
+
+bitrix/managed_cache/
+
+bitrix/stack_cache/
+
+bitrix/html_pages/
+
+bitrix/tmp/
+
+upload/tmp/
+
+upload/resize_cache/
+
+
+
+# Composer
+
+/vendor/
+
+
+
+# Системные файлы
+
+.DS_Store
+
+Thumbs.db
+
+*.log
